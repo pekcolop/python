@@ -1,0 +1,2 @@
+after reviewing and running the code, the last line where it prints a message saying files not sorted is unecessary 
+and can be deleted.
